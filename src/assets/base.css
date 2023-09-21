@@ -4,7 +4,8 @@
   --vt-c-white-soft: #f8f8f8;
   --vt-c-white-mute: #f2f2f2;
 
-  --vt-c-black: #181818;
+  --vt-c-black: background: rgb(47,66,105);
+  background: linear-gradient(166deg, rgba(47,66,105,1) 0%, rgba(50,64,91,1) 19%, rgba(38,51,74,1) 37%, rgba(21,31,50,1) 78%);
   --vt-c-black-soft: #222222;
   --vt-c-black-mute: #282828;
 
